@@ -1,7 +1,8 @@
 # codewars
 My personal repository of all the codewars assignments I've completed.
 
-8kyu:	1. Counting Sheep, 
+8kyu:
+	1. Counting Sheep, 
 
 	2. Even or Odd, 
 
@@ -9,7 +10,8 @@ My personal repository of all the codewars assignments I've completed.
 
 	4. Sum without Highest and Lowest Number
 
-7kyu:	1. Averages of Numbers, 
+7kyu:
+	1. Averages of Numbers, 
 
 	2. Sum of Numbers, 
 
@@ -19,7 +21,8 @@ My personal repository of all the codewars assignments I've completed.
 
 	5. Two Fighters, One Winner
 
-6kyu:	1. Persistent Bugger, 
+6kyu:
+	1. Persistent Bugger, 
 
 	2. Playing with Digits, 
 
