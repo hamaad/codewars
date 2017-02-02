@@ -13,6 +13,7 @@ My personal repository of all the codewars assignments I've completed.
 - 3. Compare Strings by Sum of Chars,
 - 4. Deodorant Evaporator,
 - 5. Two Fighters, One Winner
+- 6. Maximum Difference
 
 **6kyu**:
 - 1. Persistent Bugger,
