@@ -14,6 +14,7 @@ My personal repository of all the codewars assignments I've completed.
 - 4. Deodorant Evaporator,
 - 5. Two Fighters, One Winner
 - 6. Maximum Difference
+- 7. Two to One
 
 **6kyu**:
 - 1. Persistent Bugger,
